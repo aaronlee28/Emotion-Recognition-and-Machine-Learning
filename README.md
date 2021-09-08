@@ -8,7 +8,7 @@ The models that were created to predict voice, text and image are described belo
 * Voice
   * Neural Network
      * Multi-layer Perceptron classifier (MLPClassifier)
-  * [Librosa](https://librosa.org/doc/latest/feature.html) to extrat low level features from audio files
+  * [Librosa](https://librosa.org/doc/latest/feature.html) to extract low level features from audio files
   * [RAVDESS Emotional Speech Audio Datset](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio)
 
 * Text
